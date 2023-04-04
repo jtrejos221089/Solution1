@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{928FD669-D44B-47F8-AF1A-39DA1554309B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "CORE\Core.csproj", "{FB6EFC47-2865-46F9-BF3C-620325BCA914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructura", "Infraestructura\Infraestructura.csproj", "{683B8913-AFE9-493C-AA0E-B064A686B482}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{928FD669-D44B-47F8-AF1A-39DA1554309B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{928FD669-D44B-47F8-AF1A-39DA1554309B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{928FD669-D44B-47F8-AF1A-39DA1554309B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{928FD669-D44B-47F8-AF1A-39DA1554309B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6EFC47-2865-46F9-BF3C-620325BCA914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6EFC47-2865-46F9-BF3C-620325BCA914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6EFC47-2865-46F9-BF3C-620325BCA914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6EFC47-2865-46F9-BF3C-620325BCA914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683B8913-AFE9-493C-AA0E-B064A686B482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683B8913-AFE9-493C-AA0E-B064A686B482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683B8913-AFE9-493C-AA0E-B064A686B482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683B8913-AFE9-493C-AA0E-B064A686B482}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1685D4CF-D178-4C61-AA44-01494C59FEDE}
+	EndGlobalSection
+EndGlobal
